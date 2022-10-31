@@ -56,7 +56,7 @@ nav a:hover {
 }
 
 .produtos li:active {
-	border-color: #088C19;	
+	border-color: #088C19;
 }
 
 .produtos li:hover h2 {
@@ -147,4 +147,28 @@ thead {
 td, th {
 	border: 1px solid #000000;
 	padding: 8px 15px;
+}
+
+
+/*css da página inicial*/
+.banner {
+		width:100%;
+}
+
+.título-principal {
+		text-align: center;
+		font-size: 2em;
+		margin: 0 0 1em;
+}
+
+.principal p {
+		margin: 0 0 1em;
+}
+
+.principal strong {
+		font-weight: bold;
+}
+
+.principal em {
+	  font-style: italic;
 }
